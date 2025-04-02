@@ -6,6 +6,12 @@ All notable changes to this project are documented in this file.
 
 - Full instructions on how to set up and use Anki Global Features.
 
+## [0.6.1] - 2025-04-02
+
+### Changed
+
+- Changed project name from `Anki Global Features` to `Anki Global Extension`
+
 ## [0.6.0] - 2025-01-23
 
 ### Added
