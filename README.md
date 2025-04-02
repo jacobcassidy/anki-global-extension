@@ -1,8 +1,8 @@
 <!-- TODO: Update README with new design system of using --brand-color-h: xxx; or --brand-color-c: 0; -->
 
-# Anki Global Features
+# Anki Global Extension
 
-This project adds advanced features to your [Anki](https://apps.ankiweb.net/) cards that sync across all devices (PC, Web, and Mobile). Hence, the name **Anki Global Features**.
+This project adds advanced features to your [Anki](https://apps.ankiweb.net/) cards that sync across all devices (PC, Web, and Mobile). Hence, the name **Anki Global Extension**.
 
 | Table of Contents             |
 | ----------------------------- |
@@ -57,7 +57,7 @@ Anki cards are plain vanilla without any customization. Global Card Styles allow
 
 ## Installation
 
-The initial setup for Anki Global Features requires the use of the free [AnkiPC](https://apps.ankiweb.net/) app. This means you'll need to use a device running Windows, macOS, or Linux. Once set up, you can use the features on any Anki app.
+The initial setup for Anki Global Extension requires the use of the free [AnkiPC](https://apps.ankiweb.net/) app. This means you'll need to use a device running Windows, macOS, or Linux. Once set up, you can use the features on any Anki app.
 
 <!--
 > __Note__: If you only want to add a specific feature, follow the instructions for that feature:
@@ -71,7 +71,7 @@ The initial setup for Anki Global Features requires the use of the free [AnkiPC]
 
 - If you don't already have AnkiPC installed, install it now by visiting [Anki](https://apps.ankiweb.net/) and clicking the download button (_available for macOS, Windows, and Linux_).
 
-### Step 2: Download the _Anki Global Features_ files
+### Step 2: Download the _Anki Global Extension_ files
 
 You have three options for downloading the files:
 
@@ -184,7 +184,7 @@ Anki apps are available for the following:
 | [AnkiMobile](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387) | iOS & iPadOS           | _Paid_ |
 | [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)       | Android                | _Free_ |
 
-### Why not create an Anki plugin to release the Anki Global Features?
+### Why not create an Anki plugin to release the Anki Global Extension?
 
 Anki plugins only work with the AnkiPC app and are incompatible across other devices. If that changes, please let me know by opening an [issue](https://github.com/jacobcassidy/anki-global-features/issues).
 
